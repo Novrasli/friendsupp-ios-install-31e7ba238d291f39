@@ -11,15 +11,14 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://novrasli.github.io/friendsupp-ios-install-31e7ba238d291f39/friendsupp.ipa?v=12</string>
+					<string>https://novrasli.github.io/friendsupp-ios-install-31e7ba238d291f39/friendsupp.ipa?v=14</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.friendsupp.friendsupp</string>
-				<key>bundle-version</key>
-				<string>12</string>
+				<key>bundle-version</key><string>14</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
